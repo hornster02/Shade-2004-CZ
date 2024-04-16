@@ -1,4 +1,4 @@
-MYABANDONWARE (2024-04)
+MYABANDONWARE - ISO Version (2024-04)
 
 Patch 1.2. Size 7MB https://github.com/hornster02/Shade-2004-CZ/raw/main/patch.rar
 
@@ -6,7 +6,7 @@ Czech version (1.2, DRM-free from Score 181 magazine - 2009) of the game with En
 <br/>
 <br/>
 <br/>
-Včetně CZ dabingu. Velikost 14MB https://github.com/hornster02/Shade-2004-CZ/raw/main/cz.rar
+Velikost 14MB https://github.com/hornster02/Shade-2004-CZ/raw/main/cz.rar
 
 Postup
 <br/>
